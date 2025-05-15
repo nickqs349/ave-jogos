@@ -55,3 +55,13 @@ header > h2{
 .cadastro{
     margin-left: 5%;
 }
+
+main > p {
+    margin-top: 90px;
+    font-size: 20px;
+}
+
+.h-navbar{
+    padding: 0px;
+    margin: 0px;
+}
