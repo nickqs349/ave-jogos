@@ -145,3 +145,8 @@ main > p {
   color: black;
   font-family: monospace;
 }
+
+.podio{
+    weight: 1000px;
+    margin-top:300px;
+}
