@@ -150,3 +150,12 @@ main > p {
     weight: 1000px;
     margin-top:300px;
 }
+
+div.card{
+    width: 18rem;
+}
+
+.card-img-top {
+  height: 200px; 
+  object-fit: cover;
+}
